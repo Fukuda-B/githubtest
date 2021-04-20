@@ -1,2 +1,2 @@
-# githubtest
-githubの練習をしよう
+# githuBtest
+そうか、Bは神だったのか！
